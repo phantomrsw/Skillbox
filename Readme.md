@@ -1,0 +1,1 @@
+The cpp directory contains descriptions and solutions of practical tasks for the course "Profession C ++ Developer"
