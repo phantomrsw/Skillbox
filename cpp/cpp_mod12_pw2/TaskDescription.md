@@ -20,9 +20,9 @@
 
 *Подробнее о сложности и нотации большого O:*
 
-[Оценка сложности алгоритмов, или Что такое О(log n)](https://tproger.ru/articles/computational-complexity-explained/)
-[Big O Notation: что это такое и как её посчитать](https://skillbox.ru/media/code/big-o-notation-chto-eto-takoe-i-kak-eye-poschitat/)
-[Big O. Оценка сложности алгоритмов](https://youtu.be/EeP-KHoEHVg)
+ - [Оценка сложности алгоритмов, или Что такое О(log n)](https://tproger.ru/articles/computational-complexity-explained/)
+ - [Big O Notation: что это такое и как её посчитать](https://skillbox.ru/media/code/big-o-notation-chto-eto-takoe-i-kak-eye-poschitat/)
+ - [Big O. Оценка сложности алгоритмов](https://youtu.be/EeP-KHoEHVg)
 
 Об алгоритмах сортировок, у которых сложность меньше O(n^2).
 
