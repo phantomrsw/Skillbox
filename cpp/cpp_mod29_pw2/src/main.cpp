@@ -13,13 +13,14 @@ void printParams(Shape *shape){
 
 int main() {
 
-    Shape *c = new Circle(3);
-    printParams(c);
+    Circle c(3);
+    printParams(&c);
 
-    Shape *r = new Rectangle(5,6);
-    printParams(r);
+    Rectangle r(5,6);
+    printParams(&r);
 
-    Shape *t = new Triangle(3,4,5);
-    printParams(t);
+    Triangle t(3,4,5);
+    printParams(&t);
+
     return 0;
 }
