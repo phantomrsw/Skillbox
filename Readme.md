@@ -47,3 +47,5 @@ _Description of modules:_
 **module 31** - additional features of smart pointer classes
 
 **module 32** - json serialization and deserialization
+
+**module 33** - using an exception
