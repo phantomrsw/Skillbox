@@ -1,0 +1,11 @@
+syntax = "proto2";
+
+package cpp_mod32_pw3;
+
+message Company{
+  required int32 yearOfFoundation = 1;
+  required string legalAddress = 2;
+  required string name = 3;
+  optional string typeOfActivity = 4;
+  optional bool foreignEconomicActivity = 5;
+}
