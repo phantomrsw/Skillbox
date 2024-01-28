@@ -1,0 +1,3 @@
+C:/CLionProjects/SkillboxProjects/cpp_mod33_pw4/cmake-build-debug/CMakeFiles/cpp_mod33_pw4.dir
+C:/CLionProjects/SkillboxProjects/cpp_mod33_pw4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CLionProjects/SkillboxProjects/cpp_mod33_pw4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
