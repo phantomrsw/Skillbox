@@ -49,3 +49,17 @@ _Description of modules:_
 **module 32** - json serialization and deserialization
 
 **module 33** - using an exception
+
+**module 34** - Introduction to Qt Development
+
+**module 35** - New features of C++
+
+**module 36** - Qt Widgets
+
+**module 37** - Qt Designer and QML
+
+**module 38** - Advanced Qt
+
+**module 39** - Additional features Qt
+
+**module 40** - Industrial Development Practices
